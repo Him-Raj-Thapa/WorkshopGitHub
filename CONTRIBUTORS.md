@@ -12,3 +12,4 @@ This file lists all the amazing people who have contributed to this workshop rep
 - [Workshop Instructor#2, Prateek Giri](https://github.com/Prateek-Giree) - _May 2025_
 - - [Siman paudel](https://github.com/siman123) - _May 2025_
 <!-- New contributors add your entry above this line -->
+- [Him Raj Thapa](https://github.com/your-Him-Raj-Thapa) - _May 2025_
